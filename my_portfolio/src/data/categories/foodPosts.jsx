@@ -1,11 +1,11 @@
 export const foodPosts = [
   {
     id: 1,
-    image: "/images/designs/food-posts/blue berry.jpg"
+    image: "https://drive.google.com/file/d/1PI_Hu4jxnLmUVwslr9Tjdl9j8ysIo_he/view?usp=sharing"
   },
   {
     id: 2,
-    image: "/images/designs/food-posts/gemai gedara kottu 2.png"
+    image: "https://drive.google.com/file/d/1XhiX9y5dWCZu_dnwElfGoyRrndIsV4QR/view?usp=drive_link"
   },
   {
     id: 3,
