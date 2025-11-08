@@ -95,4 +95,10 @@ export const foodPosts = [
     id: 23,
     image:"/images/designs/food-posts/Ceylon lagos 5 (2).jpg"
   },
+  ,
+  {
+    id: 23,
+    image:"/images/designs/food-posts/Ceylon lagos 5 (2).jpg"
+  },
+
 ];
